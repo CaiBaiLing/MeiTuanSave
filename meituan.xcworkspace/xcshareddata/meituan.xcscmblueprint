@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "569BF305EA0A43B88FAF7A641085419A895BAE5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F0DB76D150EA4E7D0F034D4F9D3C7E1EB0DC8D39" : 0,
+    "569BF305EA0A43B88FAF7A641085419A895BAE5E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D32DE5D4-942D-4DE4-A22D-C819518C1273",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F0DB76D150EA4E7D0F034D4F9D3C7E1EB0DC8D39" : "meituan",
+    "569BF305EA0A43B88FAF7A641085419A895BAE5E" : "MeiTuanSave\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "meituan",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "meituan.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CaiBaiLing\/MeiTuanSave.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "569BF305EA0A43B88FAF7A641085419A895BAE5E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lookingstars\/meituan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0DB76D150EA4E7D0F034D4F9D3C7E1EB0DC8D39"
+    }
+  ]
+}
